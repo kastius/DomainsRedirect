@@ -17,7 +17,7 @@ or upload index.php in your Web-Directory
 # DomainsRedirect
 Mehrere Domainnamen, die auf einen Host verweisen
 
-Sie haben mehrere Domain-Namen und nur einen Host? Dieses PHP-Skript sollt Ihnen helfen, mehrere Domains in einem Verzeichnis an die richtigen Dateien zu übergeben.
+Sie haben mehrere Domain-Namen und nur einen Host? Dieses PHP-Skript soll Ihnen helfen, mehrere Domains in einem Verzeichnis an die richtigen Dateien zu übergeben.
 
 Installation:
 
